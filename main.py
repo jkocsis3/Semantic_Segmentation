@@ -87,11 +87,11 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
 
 
 
-    tf.Print(output, [tf.shape(output)]) # shape will get the dimensions after the network is run.  get_shape gets it before it runs.
+    #tf.Print(output, [tf.shape(output)]) # shape will get the dimensions after the network is run.  get_shape gets it before it runs.
 
     #upsample again by 2 then by 2 again, then by 8 (got these from classroom)
 
-    return None
+    #return None
 tests.test_layers(layers)
 
 
