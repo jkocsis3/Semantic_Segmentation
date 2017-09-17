@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"glo",
+				"global_variables_initializer\tfunction"
+			],
+			[
+				"initial",
+				"initialize_all_variables\tfunction"
+			],
+			[
+				"correct",
+				"correct_label\tparam"
+			],
+			[
+				"train",
+				"train_op\tparam"
+			],
+			[
+				"learning",
+				"learning_rate\tparam"
+			],
+			[
+				"keep",
+				"keep_prob\tparam"
+			],
+			[
+				"input",
+				"input_image\tparam"
+			],
+			[
+				"layer",
+				"layer3_skip\tstatement"
+			],
+			[
+				"lay",
+				"layer4_up"
+			],
+			[
+				"con",
+				"conv2d_transpose"
+			],
+			[
+				"vgg_lay",
+				"vgg_layer3_out\tparam"
+			],
+			[
+				"corr",
+				"correct_label\tstatement"
+			],
+			[
+				"learnin",
+				"learning_rate\tparam"
+			],
+			[
+				"lae",
+				"learning_rate\tparam"
+			],
+			[
+				"opt",
+				"optimize\tfunction"
+			],
+			[
+				"num",
+				"num_classes\tparam"
+			],
+			[
+				"batch",
+				"batch_size\tparam"
+			],
+			[
+				"corre",
+				"correct_label\tparam"
+			],
+			[
+				"reduce",
+				"reduce_mean\tfunction"
+			],
+			[
+				"kernel",
+				"kernel_regularizer\tparam"
+			],
+			[
+				"vgg_layer",
+				"vgg_layer7_out\tparam"
+			],
+			[
+				"vgg_la",
+				"vgg_layer7_out_tensor_name\tstatement"
+			],
+			[
+				"vgg_",
+				"vgg_layer3_out_tensor_name\tstatement"
+			],
+			[
+				"sess",
+				"sess\tparam"
+			],
+			[
+				"get",
+				"get_tensor_by_name"
+			],
+			[
+				"tar",
+				"target_lane"
+			],
+			[
+				"target",
+				"target_position"
+			],
+			[
+				"changing",
+				"changing_lanes"
+			],
+			[
+				"rigth",
+				"right_clear"
+			],
+			[
+				"change",
+				"change_lanes"
+			],
+			[
+				"lane",
+				"lane_open"
+			],
+			[
+				"left",
+				"left_clear"
+			],
+			[
+				"right",
+				"right_clear"
+			],
+			[
+				"center",
+				"center_clear"
+			],
+			[
+				"object",
+				"object_lane"
+			],
+			[
+				"ref_",
+				"ref_vel"
+			],
+			[
+				"ref_v",
+				"ref_vel"
+			],
+			[
+				"sensor",
+				"sensor_fusion"
+			],
+			[
+				"chec",
+				"check_car_s"
+			],
+			[
+				"prev",
+				"prev_size-1"
+			],
+			[
+				"check",
+				"check_car_s"
+			],
+			[
+				"sens",
+				"sensor_fusion"
+			],
+			[
+				"end",
+				"end_path_s"
+			],
+			[
+				"car",
+				"car_s"
+			],
+			[
+				"next",
+				"next_y_vals"
+			],
+			[
+				"targe",
+				"target_x"
+			],
+			[
+				"nexy",
+				"next_y_vals"
+			],
+			[
+				"prev_p",
+				"previous_path_x"
+			],
+			[
+				"ref",
+				"ref_yaw"
+			],
+			[
+				"shift",
+				"shift_y"
+			],
+			[
+				"mapwa",
+				"map_waypoints_y"
+			],
+			[
+				"map_way",
+				"map_waypoints_x"
+			],
+			[
+				"map",
+				"map_waypoints_s"
+			],
+			[
+				"pts",
+				"ptsx"
+			],
+			[
+				"pre",
+				"prev_size-2"
+			],
+			[
+				"prevcar",
+				"prev_car_y"
+			],
+			[
+				"previous",
+				"previous_path_x"
+			],
+			[
+				"maps",
+				"map_waypoints_s"
+			],
+			[
+				"dist",
+				"dist_inc"
+			],
+			[
+				"car_",
+				"car_x"
+			],
+			[
+				"pos",
+				"pos_x"
+			],
+			[
+				"nexty",
+				"next_y_vals"
+			],
+			[
+				"path",
+				"path_size"
+			],
+			[
+				"prevP",
+				"previous_path_x"
+			],
+			[
+				"go",
+				"goal"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"policy",
+				"policy2D"
+			],
+			[
+				"pol",
+				"policy2D"
+			],
+			[
+				"action",
+				"action_name"
+			],
+			[
+				"delta",
+				"delta_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "anaconda:sho",
+		"selected_items":
+		[
+			[
+				"anaconda:sho",
+				"Anaconda: Show error list"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation"
+	],
+	"file_history":
+	[
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/main.py",
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/semseg.sublime-project",
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/test.py",
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/helper.py",
+		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/project_tests.py",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/AmazonAWSSpot",
+		"/E/SDCProgram/Projects/Term3/AWS/RemoteFolders/IncreasePerformance/sftp-config.json",
+		"/C/Users/Joe/Desktop/amazonaws config.json",
+		"/C/users/joe/appdata/local/temp/sublime-sftp-browse-1505074374/mapped/home/ubuntu/inference-walkthrough/src/graph_utils.py",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/config",
+		"/E/SDCProgram/Projects/Term3/AWS/RemoteFolders/IncreasePerformance/sftp-config-alt.json",
+		"/C/users/joe/appdata/local/temp/sublime-sftp-browse-1505073931/config/home/ubuntu/inference-walkthrough/src/graph_utils.py",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp-config.json",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/FileZilla SFTP Import/sftp-config.json",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/FileZilla SFTP Import/SublimeZilla.py",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+		"/E/SDCProgram/Projects/Term1/Behaviorial_Cloning/model.py",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/.gitignore",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/src/main.cpp",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/src/json.hpp",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/src/spline.h",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/src/CodeSnippetsFromWalkthrough.cpp",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/SDCProgram/Projects/Term3/PathPlanning/README.md",
+		"/E/SDCProgram/Projects/Term3/scratch.py",
+		"/E/SDCProgram/Projects/Term3/test.py",
+		"/E/SDCProgram/Projects/Term3/python-solution/BehaviorExerciseAndySolution/vehicle.py",
+		"/E/SDCProgram/Projects/Term2/Unscented_Kalman_Filters/src/main.cpp",
+		"/E/SDCProgram/Projects/Term3/c++scratch",
+		"/C/Users/Joe/Desktop/predicition_solution.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"complete",
+			"enter",
+			"pep8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 213.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "semseg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
