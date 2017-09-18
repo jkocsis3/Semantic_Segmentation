@@ -287,6 +287,31 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 8098,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 9461,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "helper.py",
+			"settings":
+			{
+				"buffer_size": 5289,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -377,6 +402,7 @@
 	],
 	"file_history":
 	[
+		"/E/SDCProgram/Projects/Term3/test.py",
 		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/main.py",
 		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/semseg.sublime-project",
 		"/E/SDCProgram/Projects/Term3/Semantic_Segmentation/test.py",
@@ -408,7 +434,6 @@
 		"/C/Users/Joe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/E/SDCProgram/Projects/Term3/PathPlanning/README.md",
 		"/E/SDCProgram/Projects/Term3/scratch.py",
-		"/E/SDCProgram/Projects/Term3/test.py",
 		"/E/SDCProgram/Projects/Term3/python-solution/BehaviorExerciseAndySolution/vehicle.py",
 		"/E/SDCProgram/Projects/Term2/Unscented_Kalman_Filters/src/main.cpp",
 		"/E/SDCProgram/Projects/Term3/c++scratch",
@@ -450,8 +475,119 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6085,
+								6085
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2025.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7910,
+								7910
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "helper.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

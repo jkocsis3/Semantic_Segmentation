@@ -2,5 +2,5 @@ data_road/
 data_road*
 vgg/
 gtFine_trainvaltest/
-runs/
+training/
 vgg16.npy
