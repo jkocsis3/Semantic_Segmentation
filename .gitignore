@@ -3,4 +3,8 @@ data_road*
 vgg/
 gtFine_trainvaltest/
 runs/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 28ed66118ba592d68be9b7d28455998dfeccb57e
 vgg16.npy
