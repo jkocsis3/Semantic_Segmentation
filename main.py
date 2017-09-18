@@ -80,7 +80,7 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
     layer3_skip = tf.add(layer4_up, layer3_1x1)
 
     #Upsample t
-    output = tf.layers.conv2d_transpose(layer3_skip, num_classes, 16, 8, kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
+    output = tf.layers.conv2d_transpose(layer3_skip, num_classes, 16, 8, padding='same', kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
 
 
     return output
@@ -135,11 +135,13 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
     sess.run(tf.global_variables_initializer())
     #print("other session")
     for i in range(epochs):
+        print("Epoch: ", i)
         for image, label in get_batches_fn(batch_size):
-            loss = sess.run([train_op, cross_entropy_loss], feed_dict={input_image: image, correct_label : label, keep_prob: 0.5, learning_rate: .00009})
+            loss = sess.run([train_op, cross_entropy_loss], feed_dict={input_image: image, correct_label : label, keep_prob: 0.5, learning_rate: .0009})
+            print("loss ", i, " = ", loss)
 
 
-            pass
+    pass
 tests.test_train_nn(train_nn)
 
 
@@ -183,8 +185,8 @@ def run():
 
 
         # TODO: Train NN using the train_nn function
-        epochs = 2
-        batch_size = 1
+        epochs = 25
+        batch_size = 5
 
         train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_loss, input_image, correct_label, keep_prob, learning_rate)
 
